@@ -1,1 +1,1 @@
-# somesh-kolluru-cv-website-specialist
+# This is my CV for the Website Specialist role using HTML & CSS.
